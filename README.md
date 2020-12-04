@@ -30,7 +30,7 @@ Progress related to the revival can be found in Projects and Wiki.  It is likely
 
 ## Purpose
 
-As partially mentioned in the previous section, *CampaignGen* was designed to aid a beginning player/GM with the early creation of characters, maps, and/or dungeons.  This is successfully done via the multiple different sub-programs and usage of[OSRIC](https://en.wikipedia.org/wiki/OSRIC).  Other RPG handbooks may be used; however, OSRIC is licensed under Open Game License and more readily redistributable in *specific* fashions.  It is left to the user to create the necessary database files for other RPG games (Pathfinder, AD&D, etc.)
+As partially mentioned in the previous section, *CampaignGen* was designed to aid a beginning player/GM with the early creation of characters, maps, and/or dungeons.  This is successfully done via the multiple different sub-programs and usage of [OSRIC](https://en.wikipedia.org/wiki/OSRIC).  Other RPG handbooks may be used; however, OSRIC is licensed under Open Game License and more readily redistributable in *specific* fashions.  It is left to the user to create the necessary database files for other RPG games (Pathfinder, AD&D, etc.)
 
 ## Usage
 
